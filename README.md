@@ -7,3 +7,5 @@
 - ![image](https://github.com/user-attachments/assets/4d95fa9b-1f56-4d6b-8283-edb8d8d7c443)
 
 ## Create a Notebook to Fetch the API data by Python request
+
+[Source to Bronze](https://github.com/Mahendra710/Earthquake-Data-Engineering-Fabric/blob/main/Source%20To%20Bronze.ipynb)
