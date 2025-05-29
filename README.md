@@ -11,3 +11,5 @@
 [Source to Bronze](https://github.com/Mahendra710/Earthquake-Data-Engineering-Fabric/blob/main/Source%20To%20Bronze.ipynb)
 
 [Bronze to Silver](https://github.com/Mahendra710/Earthquake-Data-Engineering-Fabric/blob/main/Bronze%20to%20Silver.ipynb)
+
+[Silver to Gold](https://github.com/Mahendra710/Earthquake-Data-Engineering-Fabric/blob/main/Silver%20To%20Gold.ipynb)
