@@ -9,3 +9,5 @@
 ## Create a Notebook to Fetch the API data by Python request
 
 [Source to Bronze](https://github.com/Mahendra710/Earthquake-Data-Engineering-Fabric/blob/main/Source%20To%20Bronze.ipynb)
+
+[Bronze to Silver](https://github.com/Mahendra710/Earthquake-Data-Engineering-Fabric/blob/main/Bronze%20to%20Silver.ipynb)
