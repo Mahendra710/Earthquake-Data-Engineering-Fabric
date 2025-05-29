@@ -13,3 +13,7 @@
 [Bronze to Silver](https://github.com/Mahendra710/Earthquake-Data-Engineering-Fabric/blob/main/Bronze%20to%20Silver.ipynb)
 
 [Silver to Gold](https://github.com/Mahendra710/Earthquake-Data-Engineering-Fabric/blob/main/Silver%20To%20Gold.ipynb)
+
+## Power BI dashboard
+![image](https://github.com/user-attachments/assets/7927ad03-69f0-4598-ba14-326676aec8ad)
+
